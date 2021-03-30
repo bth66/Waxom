@@ -12,7 +12,7 @@ new Swiper('.slider', {
     },
     //*Буллеты(точки)
     pagination: {
-        el: '.swiper-pagination',
+        el: '.slider__bullets',
         clickable: true,
     },
 });
